@@ -1,0 +1,33 @@
+.auth-image {
+  float: left;
+  max-width: 100%;
+  height: auto;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.body-class {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+.bold-text {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.social {
+  width: 65px;
+  height: 65px;
+  margin: 0px auto;
+}
+
+.top-buffer {
+	margin-top: 20px;
+}
+
+.work-img {
+	max-width: 100%;
+	height: auto;
+	margin-bottom: 10px;
+}
